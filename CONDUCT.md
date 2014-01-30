@@ -43,13 +43,7 @@ Attendees asked to stop any harrassing behavior are expected to comply immediate
 Attendees violating these rules may be sanctioned or expelled from the hackathon
 at the discretion of the event's organizers.
 
-As a music tech event and a hackathon, we recognize that our circumstances are
-slightly different than the average tech conference for which the original code
-of conduct was designed. Music and related aspects of pop culture are often highly
-sexualized, both lyrically and aesthetically. As such, it is possible that an
-otherwise inoffensive hack may become offensive by selecting or involving explicit
-or offensive music, lyrical content, or album covers. Hacks of this type should
-be identified as such at the beginning of their demo, and presenters should 
-provide people in the audience an opportunity to step out if they feel like they
-might be offended by the hack. Presenters should also make an effort to ensure
-that the content used in their demo is not offensive.
+As a music tech event and a hackathon, we recognize that our circumstances are slightly different than the average tech conference for which the original code of conduct was designed. Music and related aspects of pop culture are often highly sexualized, both lyrically and aesthetically. As such, it is possible that an otherwise inoffensive hack may become offensive by selecting or involving explicit or offensive music, lyrical content, or album covers or video content. Hacks of this type should be identified as such at the beginning of their demo, and presenters should provide people in the audience an opportunity to step out if they feel like they might be offended by the hack. Presenters should also make an effort to ensure that the content selected for their demo is not offensive.
+
+
+
